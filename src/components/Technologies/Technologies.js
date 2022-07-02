@@ -31,7 +31,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Vue.js et Nuxt.js
+            Vue.js and Nuxt.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
